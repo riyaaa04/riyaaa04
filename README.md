@@ -1,4 +1,4 @@
-![logo](https://github.com/riyaaa04/riyaaa04/blob/main/bg1.jpeg)
+![logo](https://github.com/riyaaa04/riyaaa04/blob/main/escr2.png)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+GitHub!;" />
