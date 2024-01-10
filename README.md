@@ -57,3 +57,18 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 - <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
+</div>
+
+
+<div align="center">
+  <h2> Quotes </h2>
+
+<div align="center">
+    
+</p>
+
+
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=vue)](https://github.com/cheehwatang/github-readme-daily-quotes)
+- <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<div align="center">
+
