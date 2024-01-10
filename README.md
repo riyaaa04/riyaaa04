@@ -23,6 +23,8 @@
 - ⚡ Fun fact **I Love to have fun , enjoy each and every moment ,explore new places , new things ..**
 - - <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
+    <img align="right" alt="Coding" width="400" src="https://github.com/riyaaa04/riyaaa04/blob/main/network.gif">
+
 <p align="left"> <a href="https://twitter.com/riiyasingh67" target="blank"><img src="https://img.shields.io/twitter/follow/riiyasingh67?logo=twitter&style=for-the-badge" alt="riiyasingh67" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
