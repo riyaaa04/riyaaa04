@@ -3,13 +3,12 @@
 </h1>
 <h1 align="center">Hi 👋, I'm Riya Singh</h1>
 <h3 align="center">A passionate computer science student .</h3>
-<img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/">
+<img align="right" alt="Coding" width="400" src="https://github.com/riyaaa04/riyaaa04/blob/main/programmer.gif">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyaaa04&label=Profile%20views&color=0e75b6&style=flat" alt="riyaaa04" /> </p>
-- <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-<div align="center">
+
 
 - 🔭 My Project [GlamGrover](https://www.appsheet.com/newshortcut/8d42283d-37d4-4844-a1c2-cc9f1ac01484)
 
