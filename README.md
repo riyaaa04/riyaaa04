@@ -46,3 +46,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaaa04&" alt="riyaaa04" /></p>
 - <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
+<br>
+<p align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
