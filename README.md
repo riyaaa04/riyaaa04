@@ -8,6 +8,8 @@
 - 🔭 My Project [GlamGrover](https://www.appsheet.com/newshortcut/8d42283d-37d4-4844-a1c2-cc9f1ac01484)
 
 - 🌱 I’m currently learning **Python**
+- <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<div align="center">
 
 - 👨‍💻 All of my projects are available at [https://github.com/riyaaa04/Riya-Singh](https://github.com/riyaaa04/Riya-Singh)
 
