@@ -54,6 +54,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaaa04&" alt="riyaaa04" /></p>
 <br>
 <p align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">Statistics</h2>
+<div align="center">
+<a href="https://github.com/riyaaa04">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyaaa04&theme=midnight_purple" height="250em" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 - <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
