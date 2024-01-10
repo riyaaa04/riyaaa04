@@ -5,6 +5,8 @@
 </h1>
 <h1 align="center">Hi 👋, I'm Riya Singh</h1>
 <h3 align="center">A passionate computer science student .</h3>
+- <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<div align="center">
 <img align="right" alt="Coding" width="400" src="https://github.com/riyaaa04/riyaaa04/blob/main/programmer.gif">
 
 
