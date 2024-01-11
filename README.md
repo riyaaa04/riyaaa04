@@ -62,9 +62,18 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyaaa04&theme=midnight_purple" height="250em" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 - <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=riyaaa04&theme=nightowl"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=riyaaa04.riyaaa04"/>
+
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"/>
+
 <div align="center">
 </div>
-
+- <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<div align="center">
 
 <div align="center">
   <h2> Quotes </h2>
