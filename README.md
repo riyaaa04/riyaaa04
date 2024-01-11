@@ -52,6 +52,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyaaa04&show_icons=true&locale=en" alt="riyaaa04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaaa04&" alt="riyaaa04" /></p>
+
 <br>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">Statistics</h2>
