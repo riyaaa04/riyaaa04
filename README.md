@@ -65,12 +65,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=riyaaa04.riyaaa04"/>
 
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"/>
 
 <div align="center">
 </div>
-- <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-<div align="center">
+
 
 <div align="center">
   <h2> Quotes </h2>
