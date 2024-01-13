@@ -3,10 +3,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+GitHub!;" />
 </h1>
+
 <h1 align="center">Hi 👋, I'm Riya Singh</h1>
 <h3 align="center">A passionate computer science student .</h3>
-- <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-<div align="center">
+
 <img align="right" alt="Coding" width="400" src="https://github.com/riyaaa04/riyaaa04/blob/main/programmer.gif">
 
 
@@ -25,8 +25,7 @@
 - 📫 How to reach me **2023.riyas@isu.ac.in**
 
 - ⚡ Fun fact **I Love to have fun , enjoy each and every moment ,explore new places , new things ..**
-- - <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-<div align="center">
+- </h1>
     <img align="right" alt="Coding" width="400" src="https://github.com/riyaaa04/riyaaa04/blob/main/network.gif">
 
 <p align="left"> <a href="https://twitter.com/riiyasingh67" target="blank"><img src="https://img.shields.io/twitter/follow/riiyasingh67?logo=twitter&style=for-the-badge" alt="riiyasingh67" /></a> </p>
