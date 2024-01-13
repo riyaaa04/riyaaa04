@@ -38,9 +38,8 @@
 <a href="https://instagram.com/https://www.instagram.com/__riyaaaa__5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__riyaaaa__5/" height="30" width="40" /></a>
 <a href="https://mail.google.com/riiyasingh67@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="@riiyasingh67" height="30" width="40" /></a>
 </p>
-- <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-<div align="center">
-<img align="right" alt="Coding" width="400" src="https://github.com/riyaaa04/riyaaa04/blob/main/tools.gif">
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
