@@ -82,6 +82,4 @@
 
 
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=vue)](https://github.com/cheehwatang/github-readme-daily-quotes)
-- <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-<div align="center">
 
